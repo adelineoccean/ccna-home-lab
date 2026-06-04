@@ -6,13 +6,12 @@ scheme across three subnets of different sizes, configure a router with
 multiple interfaces, and verify inter-subnet routing and connectivity.
 
 ## Topology
-PC1 --|                    |-- PC3
+PC1 --|                   |-- PC3
 PC2 --| SW1 -- R1 -- SW2  |-- PC4
-|
-SW3
-|
-PC5
-PC6
+               |
+              SW3
+              /	 \
+             PC5 PC6
 
 ## VLSM Addressing Design
 
