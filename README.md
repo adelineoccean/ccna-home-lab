@@ -8,7 +8,7 @@ All topologies are fully functional with verified end-to-end connectivity.
 | Phase | Topic | Status |
 |-------|-------|--------|
 | 1 | Environment Setup | ✅ Complete |
-| 2 | Subnetting & Fundamentals | 🔄 In Progress |
+| 2 | Subnetting & Fundamentals | ✅ Complete|
 | 3 | Switching & VLANs | ⏳ Upcoming |
 | 4 | Routing (OSPF) | ⏳ Upcoming |
 | 5 | Services (DHCP, NAT, ACLs) | ⏳ Upcoming |
