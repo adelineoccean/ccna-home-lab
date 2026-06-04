@@ -5,13 +5,12 @@ Design and implement a Variable Length Subnet Mask (VLSM) addressing
 scheme across three subnets of different sizes, configure a router with
 multiple interfaces, and verify inter-subnet routing and connectivity.
 
-## Topology
-PC1 --|                   |-- PC3
-PC2 --| SW1 -- R1 -- SW2  |-- PC4
-               |
-              SW3
-              /	 \
-             PC5 PC6
+## Topology                  
+PC1 --| PC2 --| SW1 -- R1 -- SW2  |-- PC3 |-- PC4
+                       |
+                      SW3
+                     /	 \
+                    PC5 PC6
 
 ## VLSM Addressing Design
 
