@@ -9,7 +9,7 @@ All topologies are fully functional with verified end-to-end connectivity.
 |-------|-------|--------|
 | 1 | Environment Setup | ✅ Complete |
 | 2 | Subnetting & Fundamentals | ✅ Complete|
-| 3 | Switching & VLANs | ⏳ Upcoming |
+| 3 | Switching & VLANs | ✅ Complete||
 | 4 | Routing (OSPF) | ⏳ Upcoming |
 | 5 | Services (DHCP, NAT, ACLs) | ⏳ Upcoming |
 | 6 | Capstone Enterprise Lab | ⏳ Upcoming |
